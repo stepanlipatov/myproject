@@ -1,0 +1,16 @@
+p{
+            font-size:large
+        }
+        h1{
+            color: #0000CD;
+            text-align: center
+        }
+        a{
+            color: bisque;
+            text-decoration: none
+        }
+        
+        table{
+           border-width:2px;
+            border-style: solid
+        }
